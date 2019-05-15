@@ -8,7 +8,7 @@
 </head>
 <body>
 <%
-response.sendRedirect("mainpage.do");
+response.sendRedirect("mainpage.do");  
 %>
 </body>
 </html>
